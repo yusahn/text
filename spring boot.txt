@@ -1,0 +1,11 @@
+Spring Boot项目：
+http://projects.spring.io/spring-boot/
+
+Spring Boot 1.4.3参考文档
+http://docs.spring.io/spring-boot/docs/1.4.3.RELEASE/reference/htmlsingle/
+
+Spring Boot内置starter
+http://docs.spring.io/spring-boot/docs/1.4.3.RELEASE/reference/htmlsingle/#using-boot-starter
+
+Starter自定义的要求：
+http://docs.spring.io/spring-boot/docs/1.4.3.RELEASE/reference/htmlsingle/#boot-features-custom-starter

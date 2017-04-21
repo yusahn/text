@@ -1,0 +1,27 @@
+相比web service需要WSDL、SOAP作为服务定义/发现和数据交换格式，RESTful Web Service直接使用http协议传输json等数据格式。JAX-WS
+
+Restful web service：
+https://en.wikipedia.org/wiki/Representational_state_transfer
+http://www.ruanyifeng.com/blog/2011/09/restful
+http://www.ruanyifeng.com/blog/2014/05/restful_api.html
+
+JAX-RS规范:
+https://jax-rs-spec.java.net/
+
+Web service介绍：
+https://en.wikipedia.org/wiki/Web_service
+
+Java web service实现入门教程：
+http://www.iteye.com/topic/1135747
+
+
+http:
+https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol
+
+http2:
+https://en.wikipedia.org/wiki/HTTP/2
+
+http://docs.spring.io/spring-boot/docs/1.4.0.BUILD-SNAPSHOT/reference/htmlsingle/#_working_with_spring_boot
+
+http://docs.spring.io/spring-boot/docs/1.4.0.BUILD-SNAPSHOT/reference/htmlsingle/#using-boot-structuring-your-code
+

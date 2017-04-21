@@ -1,0 +1,17 @@
+Bootstrap课程Demo已上传至SVN，请知悉！  
+SVN地址：?http://hw2.huawei/svn/test3/0_public/bootstrap
+ 
+?要求：1、登录功能
+
+      2、首页菜单导航功能
+
+      3、有列表页（table）
+
+      4、使用到模态框
+
+      5、有动态交互，效果更佳 
+
+      6、使用Bootstrap
+
+作业提交时间：2017-04-28 
+

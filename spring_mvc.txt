@@ -1,0 +1,27 @@
+关于JSP
+https://docs.oracle.com/javaee/7/tutorial/servlets001.htm#BNAFE
+
+JavaEE：
+https://docs.oracle.com/javaee/7/tutorial/index.html
+
+Servlet :
+https://docs.oracle.com/javaee/7/tutorial/servlets001.htm#BNAFE
+
+Servlet 3.0 spec
+http://download.oracle.com/otn-pub/jcp/servlet-3.0-fr-oth-JSpec/servlet-3_0-final-spec.pdf
+
+
+关于JSP
+http://docs.oracle.com/javaee/6/tutorial/doc/bnafe.html
+http://blog.csdn.net/kaixinbingju/article/details/9409927
+
+Spring MVC更多细节：
+http://jinnianshilongnian.iteye.com/blog/1594806
+
+关于SpringApplication初始化的细节太多，建议有一定spring基础再阅读源代码。以下博客对流程描述比较模糊
+http://blog.csdn.net/hengyunabc/article/details/50120001
+http://www.cnblogs.com/xinzhao/p/5551828.html
+
+更多关于spring的入门demo可以参考：
+https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples
+https://spring.io/guides/
